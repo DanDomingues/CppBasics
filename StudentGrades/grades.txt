@@ -1,0 +1,12 @@
+ABCDE
+5
+Dan
+ABCDE
+Larry
+ABCAC
+Moe
+BBCDE
+Curly
+BBAAE
+Michael
+BBCDE
